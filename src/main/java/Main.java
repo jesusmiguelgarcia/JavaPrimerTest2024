@@ -13,7 +13,7 @@ public class Main {
     System.out.println(manager.getAverageGrade());
 
     // Crea un menu para agregar estudiantes   
-    System.out.println(manager.getAverageGrade());
+    
 
     
   }
