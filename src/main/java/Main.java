@@ -1,5 +1,5 @@
 public class Main {
-  public static void main(String[] args) {
+  public static void main(final String[] args) {
     System.out.println("Hello world!");
     
     StudentManager manager;
@@ -13,6 +13,7 @@ public class Main {
     System.out.println(manager.getAverageGrade());
 
     // Crea un menu para agregar estudiantes   
+    System.out.println(manager.getAverageGrade());
 
     
   }
